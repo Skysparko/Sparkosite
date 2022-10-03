@@ -225,16 +225,19 @@ header::before {
 }
 
 #heading {
-  font-size: 40px;
+  font-size: 2.5rem;
   margin: 20px 20px;
   text-align: center;
   font-family: "Oswald", sans-serif;
   padding: 0;
   transition: all 0.5s ease-out;
 }
+.hpara{
+  font-size: 1.5rem;
+}
 
 #hpara {
-  font-size: 20px;
+  font-size: 3vw;
   margin: 10px 40px;
   text-align: center;
   transition: all 0.5s ease-out;
